@@ -1,0 +1,3 @@
+create tailwind vite react project, setup tailwind configuration.
+install npm install framer-motion react-icons
+create components/Hero/Hero.jsx
